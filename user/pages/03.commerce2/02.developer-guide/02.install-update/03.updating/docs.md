@@ -22,6 +22,6 @@ recommend running them on the command line rather than the
 `update.php` script. See the example below.
 
 ```bash
-drupal update:debug
+drupal debug:update
 drupal update:execute
 ```
